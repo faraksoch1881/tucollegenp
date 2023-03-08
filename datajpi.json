@@ -1,98 +1,126 @@
-[
-    {
-        "districtnp": "Jajarkot",
-        "std_forestry": "84",
-        "std_animal": "71",
-        "std_civil": "117",
-        "std_pharmacy": "17",
-        "total": "289"
-    },
-    {
-        "districtnp": "Jumla",
-        "std_forestry": "-",
-        "std_animal": "-",
-        "std_civil": "6",
-        "std_pharmacy": "1",
-        "total": "7"
-    },
-    {
-        "districtnp": "Rukum West",
-        "std_forestry": "2",
-        "std_animal": "6",
-        "std_civil": "7",
-        "std_pharmacy": "4",
-        "total": "19"
-    },
-    {
-        "districtnp": "Dolpa ",
-        "std_forestry": "-",
-        "std_animal": "-",
-        "std_civil": "1",
-        "std_pharmacy": "1",
-        "total": "2"
-    },
-    {
-        "districtnp": "Salyan",
-        "std_forestry": "1",
-        "std_animal": "1",
-        "std_civil": "1",
-        "std_pharmacy": "1",
-        "total": "4"
-    },
-    {
-        "districtnp": "Surkhet",
-        "std_forestry": "-",
-        "std_animal": "1",
-        "std_civil": "2",
-        "std_pharmacy": "5",
-        "total": "8"
-    },
-    {
-        "districtnp": "Bardiya",
-        "std_forestry": "-",
-        "std_animal": "-",
-        "std_civil": "1",
-        "std_pharmacy": "-",
-        "total": "1"
-    },
-    {
-        "districtnp": "Dailekh",
-        "std_forestry": "-",
-        "std_animal": "1",
-        "std_civil": "-",
-        "std_pharmacy": "6",
-        "total": "7"
-    },
-    {
-        "districtnp": "Kalikot",
-        "std_forestry": "3",
-        "std_animal": "2",
-        "std_civil": "1",
-        "std_pharmacy": "2",
-        "total": "8"
-    },
-    {
-        "districtnp": "Humla",
-        "std_forestry": "-",
-        "std_animal": "-",
-        "std_civil": "1",
-        "std_pharmacy": "1",
-        "total": "2"
-    },
-    {
-        "districtnp": "Palpa",
-        "std_forestry": "-",
-        "std_animal": "-",
-        "std_civil": "-",
-        "std_pharmacy": "1",
-        "total": "1"
-    },
-    {
-        "districtnp": "Mugu",
-        "std_forestry": "-",
-        "std_animal": "1",
-        "std_civil": "1",
-        "std_pharmacy": "-",
-        "total": "2"
-    }
-]
+{
+    "data": [
+
+        {
+            "districtnp": "Jajarkot",
+            "std_forestry": "84",
+            "std_animal": "71",
+            "std_civil": "117",
+            "std_pharmacy": "17",
+            "total": "289",
+            "lat":28.86515 ,
+            "lng": 82.171363
+        },
+        {
+            "districtnp": "Jumla",
+            "std_forestry": "",
+            "std_animal": "",
+            "std_civil": "6",
+            "std_pharmacy": "1",
+            "total": "7",
+            "lat":29.2889,
+            "lng": 82.3018
+        },
+        {
+            "districtnp": "Rukum West",
+            "std_forestry": "2",
+            "std_animal": "6",
+            "std_civil": "7",
+            "std_pharmacy": "4",
+            "total": "19",
+            "lat":28.6947,
+            "lng": 82.4319
+        },
+        {
+            "districtnp": "Dolpa ",
+            "std_forestry": "",
+            "std_animal": "",
+            "std_civil": "1",
+            "std_pharmacy": "1",
+            "total": "2",
+            "lat":29.0539,
+            "lng": 83.0791
+        },
+        {
+            "districtnp": "Salyan",
+            "std_forestry": "1",
+            "std_animal": "1",
+            "std_civil": "1",
+            "std_pharmacy": "1",
+            "total": "4",
+            "lat":28.4014 ,
+            "lng": 82.1714
+        },
+        {
+            "districtnp": "Surkhet",
+            "std_forestry": "",
+            "std_animal": "1",
+            "std_civil": "2",
+            "std_pharmacy": "5",
+            "total": "8",
+            "lat":28.5175,
+            "lng": 81.7787
+        },
+        {
+            "districtnp": "Bardiya",
+            "std_forestry": "",
+            "std_animal": "",
+            "std_civil": "1",
+            "std_pharmacy": "",
+            "total": "1",
+            "lat": 28.3102 ,
+            "lng": 81.4279
+            
+        },
+        {
+            "districtnp": "Dailekh",
+            "std_forestry": "",
+            "std_animal": "1",
+            "std_civil": "",
+            "std_pharmacy": "6",
+            "total": "7",
+            "lat":28.9262,
+            "lng": 81.6473
+        },
+        {
+            "districtnp": "Kalikot",
+            "std_forestry": "3",
+            "std_animal": "2",
+            "std_civil": "1",
+            "std_pharmacy": "2",
+            "total": "8",
+            "lat":29.2089,
+            "lng": 81.7349
+        },
+        {
+            "districtnp": "Humla",
+            "std_forestry": "",
+            "std_animal": "",
+            "std_civil": "1",
+            "std_pharmacy": "1",
+            "total": "2",
+            "lat":30.0052,
+            "lng": 81.9535
+        },
+        {
+            "districtnp": "Palpa",
+            "std_forestry": "",
+            "std_animal": "",
+            "std_civil": "",
+            "std_pharmacy": "1",
+            "total": "1",
+            "lat":27.8253,
+            "lng": 83.6348
+        },
+        {
+            "districtnp": "Mugu",
+            "std_forestry": "",
+            "std_animal": "1",
+            "std_civil": "1",
+            "std_pharmacy": "",
+            "total": "2",
+            "lat":29.6144 ,
+            "lng": 82.3452
+        }
+    ]
+}
