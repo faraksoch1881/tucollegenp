@@ -1,314 +1,197 @@
- {  
-      "data"     :     [  
+{
+"staffdata":[
  {
-    
-        "address":" Bhadrapur, Jhapa",
-        "bsc":"General (including Env. Sc, Tea Technology) CSIT ",
-        "msc":"-",
-       "name":"Mechi Multiple Campus",
-     "url": "https://mechicampus.edu.np",
-     "lat": 26.561146897512895,
-     "lng": 88.08717416879011,
-     "image":"mechi.jpg",
-     "desc":"Mechi Multiple Campus (Nepali: मेची बहुमुखी क्याम्पस) is a constituent campus of Tribhuvan University in Bhadrapur municipality of Jhapa district. Founded in 1964, it is the only constituent campus of Tribhuvan University in the district. "
-   },
+  "staff_name": "दान बहादुर ठकुरी",
+  "staff_title": "शिक्षालय प्रमुख",
+  "staff_address": "च.ना.न.प १०, जुम्ला",
+  "staff_phone": 9858080073,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "सुदिर थापा",
+  "staff_title": "रसायन शास्त्र प्रशिक्षक",
+  "staff_address": "भि.न.पा ०५, दोलखा",
+  "staff_phone": 9841991451,
+  "staff_role": "First Year Coordinator",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "सागर रावल",
+  "staff_title": "भौतिक शास्त्र प्रशिक्षक",
+  "staff_address": "च.ना.न.प ०३, जुम्ला",
+  "staff_phone": 9868336847,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "प्रेम बहादुर शाही",
+  "staff_title": "वन प्रशिक्षक",
+  "staff_address": "तातोपानि ०८, जम्ला",
+  "staff_phone": 9845906471,
+  "staff_role": "Forest ordinator",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "अनिता बुढा",
+  "staff_title": "वन प्रशिक्षक",
+  "staff_address": "च.ना.न.प ०३, जम्ला",
+  "staff_phone": 9843215637,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "डा. रिया पm'याल",
+  "staff_title": "पशु विज्ञान प्रशिक्षक",
+  "staff_address": "कावासोती ०५, नवलपरासी",
+  "staff_phone": 9821052468,
+  "staff_role": "Animal Coordinator",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "डम्बर जि.सी",
+  "staff_title": "निमार्ण प्रशिक्षक",
+  "staff_address": "कनकासुन्दरी ०४, जुम्ला",
+  "staff_phone": 9849399471,
+  "staff_role": "Civil Coordinator",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "सन्तोष कुमार कामती",
+  "staff_title": "निमार्ण प्रशिक्षक",
+  "staff_address": "अर्नामा ०४, सिराहा",
+  "staff_phone": 9827714304,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "मोतिराम घर्ती मगर",
+  "staff_title": "सहायक कम्पयुटर प्रशिक्षक",
+  "staff_address": "भे.न.पा ०५ जाजरकोट",
+  "staff_phone": 9865088458,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "स्वतन्त्र कुवँर",
+  "staff_title": "निर्माण सहायक प्रशिक्षक",
+  "staff_address": "च.ना.न.प १०, जुम्ला",
+  "staff_phone": 9848305587,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "कुष्ण शाही",
+  "staff_title": "प्रशासकिय सहायक प्रथम प्रशासन",
+  "staff_address": "च.ना.न.प १०, जुम्ला",
+  "staff_phone": 9822444936,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "सन्तोष वड",
+  "staff_title": "कृषि सहायक प्रशिक्षक पशुपालन",
+  "staff_address": "मंगलसन न.पा. १० अछाम",
+  "staff_phone": 9864542699,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "कुमार ओली",
+  "staff_title": "वन सहायक प्रशिक्षक",
+  "staff_address": "मुसिकोट रुकुम पश्चिम",
+  "staff_phone": 9861610669,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "रिता कठायत धरला",
+  "staff_title": "फार्मेसी सहायक प्रशिक्षक",
+  "staff_address": "चन्दननाथ ०८, जुम्ला",
+  "staff_phone": "-",
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "कमल मल्ल",
+  "staff_title": "लेखापाल",
+  "staff_address": "सिम्ता ०४, सुर्खेत",
+  "staff_phone": 9868167308,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "भिम बहादुर शाही",
+  "staff_title": "कार्यलय सहयोगी",
+  "staff_address": "भे.न.पा ०५, जाजरकोट",
+  "staff_phone": 9868104427,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "कमला आचार्य जैशि",
+  "staff_title": "कार्यलय सहयोगी",
+  "staff_address": "भे.न.पा ०५, जाजरकोट",
+  "staff_phone": 9860465817,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "अजय वि.क",
+  "staff_title": "सुरक्षागार्ड",
+  "staff_address": "भे.न.पा ०५, जाजरकोट\n",
+  "staff_phone": 9864829166,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "पुर्ण मगर",
+  "staff_title": "सुरक्षागार्ड",
+  "staff_address": "भे.न.पा ०६, जाजरकोट\n",
+  "staff_phone": 9742808711,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "गोविन्द चन्द",
+  "staff_title": "नेपाली प्रशिक्षक",
+  "staff_address": "भे.न.पा ०८, जाजरकोट",
+  "staff_phone": 9868231293,
+  "staff_role": "आंशिक प्रशिक्षक",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "प्रेम राज रावत",
+  "staff_title": "निमार्ण प्रशिक्षक",
+  "staff_address": "कुडारी ०३, जम्ला",
+  "staff_phone": 9860005654,
+  "staff_role": "आंशिक प्रशिक्षक",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "दारवीन खनाल",
+  "staff_title": "भौतिक शास्त्र पशिक्षक",
+  "staff_address": "अर्घाखाचीँ",
+  "staff_phone": 9851085370,
+  "staff_role": "आंशिक प्रशिक्षक",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "सतीस चन्द्र झा",
+  "staff_title": "बायोलीजी प्रशिक्षक",
+  "staff_address": "अर्घाखाचीँ",
+  "staff_phone": 9808227823,
+  "staff_role": "आंशिक प्रशिक्षक",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "भरत चौधरी",
+  "staff_title": "अंग्रजी प्रशिक्षक",
+  "staff_address": "कैलाली",
+  "staff_phone": 9868526350,
+  "staff_role": "आंशिक प्रशिक्षक",
+  "staff_remark": "-"
+ }
+]
 
-    {
-    
-        "address":" Dhankuta ",
-        "bsc":" General (including Env. Sc.)",
-        "msc":" -",
-       "name":"Dhankuta Multiple Campus",
-     "url": "http://dmcampus.edu.np",
-     "lat":26.976620923266672 ,
-     "lng":  87.34090761297998,
-     "image":"dhankuta.jpg",
-     "desc":"DMC Situated in Dhankuta Bazaar, the headquarter of Dhankuta district (in Eastern Nepal), Dhankuta Multiple Campus (DMC) was established in 1955 A.D. The foundation stone of the first building of this campus was laid by the late king Mahendra in May, 1956. "
-   },
-
-       {
-
-    
-        "address":"Dharan ",
-        "bsc":" General (including Microbiology, Nutrition & Dietetics, Geology),B. Tech. (Food), BIT, BSc.CSIT",
-        "msc":"Microbiology, M. Tech. (Food) ",
-       "name":"Central Campus of Technology",
-     "url": "https://cctdharan.edu.np",
-     "lat": 26.822157209893675,
-     "lng":  87.28850992327561,
-     "image":"cot.jpg",
-     "desc":"Central Campus of Technology, Dharan is the fore runner of food technology education in Nepal. To date, the campus has produced more than 500 highly qualified food technology graduates. Annually, nearly 25 percent of them go abroad for further studies. "
-   },
-
-          {
-    
-        "address":"Biratnagar ",
-        "bsc":" General (including Microbiology),, CSIT, BIT",
-        "msc":"Physics, Chemistry ",
-       "name":"Mahendra Morang Adarsh Multiple Campus",
-     "url": "https://www.mmamc.edu.np",
-     "lat":26.44684159588711,
-     "lng": 87.27233559258585  ,
-     "image":"mahendra.jpg",
-     "desc":"Mahendra Morang Adarsha Multiple Campus is one of the largest constitutent campus of Tribhuvan University in eastern area. It offers both Bachelor level and Master Level Programs. It offers BBS, BPA, BBA B.Sc, M.Sc, B.Ed degrees etc.It was established in 2012 B.S. "
-   },
-
-          {
-    
-        "address":"Biratnagar ",
-        "bsc":" BIT",
-        "msc":" Botany, Zoology, Math",
-       "name":"Post Graduate Campus",
-     "url": "https://pgcampus.edu.np",
-     "lat": 26.437101441180438,
-     "lng":  87.28170891268817,
-     "image":"pg.jpeg",
-     "desc":"Snatakottar (Post-Graduate,Degree) Campus , is one of the constituent campuses of Tribhuvan University Nepal and well-known for the renowned scholars faculty in different fields. There are 13 subject in post-graduate level are teaching and Ph.D program also offered in science in campus. "
-   },
-
-          {
-    
-        "address":"Rajbiraj ",
-        "bsc":"General (including Microbiology), BIT ",
-        "msc":"- ",
-       "name":"Mahendra Bindeshwori Multiple Campus",
-     "url": "https://www.facebook.com/people/Shree-Mahendra-Bindeshwari-Multiple-Campus-Rajbiraj/100064524438880/",
-     "lat": 26.529808816828787,
-     "lng":  86.7486949386205,
-     "image":"mahendranagar.jpg",
-     "desc":"Mahendra Bindeshwari Multiple Campus was established in 1956 AD (2014 BS).It is affiliated to Tribhuvan University (TU). Campus offers bachelor level and Master level programs such as Bachelor of Law (LLB) and Master of Arts in Economics. The campus also offers other faculties programs including Science, Humanities, and education and Social Science faculties."
-   },
-          {
-    
-        "address":"Siraha ",
-        "bsc":"General (including Env. Sc), BIT ",
-        "msc":" -",
-       "name":"Surya Narayan Satya Narayan Marbaita Yadav Multiple Campus",
-     "url": "https://ssmymcsiraha.edu.np/institutional-overview/",
-     "lat":26.659954760252102 ,
-     "lng":  86.21313831534488,
-     "image":"surya.jpeg",
-     "desc":"Suryanarayan Satyanarayan Morbaita Yadav Multiple Campus (SSMYMC) Siraha is a constituent Campus established for producing Educational, technical and trained teachers with the name of National Educational Teacher Training Center (NETTC) in 2024 B.S. "
-   },
-
-        {
-    
-        "address":"Janakpur",
-        "bsc":"General (including Microbiology, Env. Sc.), CSIT, BIT ",
-        "msc":" Math",
-       "name":"Ramswaroop Ramsagar Multiple (RRM) Campus",
-     "url": "https://edusanjal.com/college/ramshwaroop-ramsagar-multiple-campus/",
-     "lat": 26.774495030072988,
-     "lng":  85.94665809633632,
-     "image":"ramswarop.jpeg",
-     "desc":"Ramsworup Ramsagar Multiple Campus is located in Janakpur City of Eastern Nepal which was established in 1957. The campus offers Bachelor and Master level courses in Humanities, Management, Science and Education."
-   },
-          {
-    
-        "address":"Birgunj" ,
-        "bsc":"General, BIT ",
-        "msc":"- ",
-       "name":"Thakur Ram Multiple Campus",
-     "url": "http://www.trmc.edu.np",
-     "lat":27.013826882571497 ,
-     "lng": 84.867922 ,
-     "image":"thakur.jpg",
-     "desc":"Thakur Ram Multiple Campus was established six decades ago with a view of imparting higher education and to cater the needs of people in this region. It has a glorious history as it was started even before the establishment of Tribhuvan University. Established in 2nd Shrawan, 2009 B.S "
-   },
-
-      {
-    
-        "address":"Bharatpur ",
-        "bsc":" General (including Microbiology, Geology), CSIT, BIT",
-        "msc":"Physics, Chemistry ",
-       "name":"Birendra Multiple Campus",
-     "url": "https://bmc.edu.np",
-     "lat": 27.689181728644012,
-     "lng": 84.43039900793072 ,
-     "image":"birendra.jpg",
-     "desc":"Birendra Multiple Campus that we see today in its form and features, was established on the 1st Baishakh, 2022 BS. as Birendra Intermediate Arts College, named after late King Birendra, with the initiation and efforts of academicians, social workers, guardians, donors, and local institutions feeling the need of an academic institution of higher education for the growing population of the district after Chitwan was open for settlement in 2011 BS."
-   },
-          {
-    
-        "address":"Pokhara ",
-        "bsc":" General (including Microbiology, Geology), CSIT",
-        "msc":" Physics, Math, Chemistry",
-       "name":"Prithvi Narayan Campus",
-     "url": "http://pncampus.edu.np/",
-     "lat": 28.24086656012821,
-     "lng":  83.99164606931025,
-     "image":"prithivi.jpg",
-     "desc":"Welcome to higher education at Prithvi Narayan Campus, where our students are special. Our students are at a panoramic city of lakes, at one of the oldest and largest campuses of Tribhuvan University. The time here is going to be among the most memorable of our students life. "
-   },
-
-          {
-    
-        "address":" Mahendranagar",
-        "bsc":" General (including Env. Sc, Microbiology.), CSIT, BIT",
-        "msc":" Physics, Math",
-       "name":"Siddhanath Science Campus",
-     "url": "http://www.snsc.edu.np/",
-     "lat": 28.954995699503883,
-     "lng":  80.18256484603464,
-     "image":"siddhanath.jpg",
-     "desc":"Shree Siddhanath Science Campus, established in 2033 BS in Mahendranagar, is a constituent campus of Tribhuvan University."
-   },
-
-          {
-    
-        "address":"Nepalgunj ",
-        "bsc":" General, CSIT, BIT",
-        "msc":" -",
-       "name":"Mahendra Multiple Campus",
-     "url": "http://mmcn.edu.np",
-     "lat": 28.038807773063358,
-     "lng": 81.61002431534486 ,
-     "image":"mahendranpg.jpg",
-     "desc":"Mahendra Multiple Campus located at Nepalgunj-13, Banke is one of the oldest and biggest educational institutions of the Mid-Western and Far-Western development region of Nepal. It was established as Narayan Inter College in 2014 B.S as the purpose of quality based higher education program in Mid-western and Far-western region of Nepal. "
-   },
-
-          {
-    
-        "address":" Butwal ",
-        "bsc":"General, CSIT ",
-        "msc":" -",
-       "name":"Butwal Multiple Campus",
-     "url": "https://bumc.edu.np",
-     "lat": 27.711268207346755,
-     "lng":  83.46807386137951,
-     "image":"butwal.jpg",
-     "desc":"Butwal Multiple Campus is one of the biggest campus of Lumbini Zone. It offers different Bachelors and Masters program with affiliation from Tribhuvan University.Butwal Multiple Campus (Nepali: बुटवल बहुमुखी क्याम्पस) is one of the constituent Campuses in Butwal town in western Nepal."
-   },
-
-          {
-    
-        "address":"Palpa ",
-        "bsc":" General",
-        "msc":" ",
-       "name":"Tribhuvan Multiple Campus",
-     "url": "https://tribhuvanmc.edu.np",
-     "lat": 27.865878932161046,
-     "lng": 83.54575721534486,
-     "image":"tribhuvan.jpg",
-     "desc":"Tribhuvan Multiple Campus, situated in the naturally beautiful and environmentally appropriate place of Western Part of Nepal, Tansen has long been renowned as the center of academic activities since its very establishment. "
-   },
-
-          {
-    
-        "address":"Kathmandu",
-        "bsc":"General (including Env. Sc, Microbiology) ",
-        "msc":" Chemistry, Microbiology, Eng. Geology.",
-       "name":"Tri-Chandra Multiple Campus",
-     "url": "https://trichandracampus.edu.np",
-     "lat": 27.709530366592542,
-     "lng": 85.3163487386205 ,
-     "image":"trichandra.jpg",
-     "desc":"Tri-Chandra College was established in 1918 AD. It is the first national higher education institution in Nepal. As a leading campus, Tri-Chandra offers courses in academic disciplines of science and technology and humanities and social science at both bachelor and master levels and conducts research and project work across the full of academic activity. "
-   },
-
-          {
-    
-        "address":"Lainchour ",
-        "bsc":" General (including Env. Sc, Microbiology, CSIT), BIT",
-        "msc":" Physics, Math, Botany, Chemistry, Zoology",
-       "name":"Amrit Science Campus",
-     "url": "https://amritcampus.edu.np",
-     "lat":27.71861378934527 ,
-     "lng": 85.31271566931024 ,
-     "image":"amrit.jpg",
-     "desc":"Amrit Science Campus (ASCOL), situated in the heart of Kathmandu Valley, is the unique science campus of the country. Some of the finest technical manpower, who are now involved in different development activities both at home and abroad, were students of Amrit Campus."
-   },
-
-  {
-    
-        "address":"Patan ",
-        "bsc":" General (including Env. Sc), CSIT, BIT",
-        "msc":"Physics ",
-       "name":"Patan Multiple Campus",
-     "url": "https://pmc.edu.np",
-     "lat": 27.679899284116118,
-     "lng":  85.32141891534486,
-     "image":"patan_multiple.jpg",
-     "desc":"Patan Multiple Campus was established on 2011 B.S.(1954) before birth of Tribhuvan University. Patan Multiple College in 1973 it is entered as constituent campus of Tribhuvan University in named Patan Multiple Campus. Patan Multiple Campus is one of the most popular constitutent campus of Tribhuvan University. It occupied about 27,296 sq m area. "
-   },
-
-          {
-    
-        "address":"Bhaktapur ",
-        "bsc":"General, CSIT, BIT ",
-        "msc":" -",
-       "name":"Bhaktapur Multiple Campus",
-     "url": "http://bmcbkt.edu.np/site/",
-     "lat": 27.66999557785637,
-     "lng":  85.4206763232756,
-     "image":"bhaktapur.jpg",
-     "desc":"In the Historical city Bhaktapur, 2016 Kartik 19 B.S. has been marked as one of the most important date in terms of an education. The sole reason behind it was the establishment of Bhaktapur Multiple Campus which sparkled as the stepping stone of an education for the youngest city in Kathmandu Valley.  "
-   },
-
-    {
-    
-        "address":" Bagbazar",
-        "bsc":" General (including Env. Sc.), CSIT, BIT",
-        "msc":" -",
-       "name":"Padma Kanya Multiple Campus",
-     "url": "https://pkcampus.edu.np",
-     "lat":27.706590288606847 ,
-     "lng":85.32086891534486,
-     "image":"padmakanya.jpg",
-     "desc":"Padma Kanya Multiple Campus (PKMC) was established in 1951(Aswin 2008 B.S.) as first women’s campus of Nepal. Initially, its academic activities were brought into operation at the present location of Kanya School, Dillibazar. King Tribhuvan inaugurated the campus. "
-   },
-
-          {
-    
-        "address":"Dang ",
-        "bsc":" General, CSIT",
-        "msc":"- ",
-       "name":"Mahendra Multiple Campus",
-     "url": "http://mmcdang.edu.np",
-     "lat":28.040171868072964,
-     "lng":  82.4850036,
-     "image":"mahendradang.jpg",
-     "desc":"Mahendra Multiple campus Dang offers Bachelor and Master degree programs in Management, Science, Humanities and Education faculties consisting with Bachelor of Arts (BA), Bachelor of Science (B.Sc. in General, Bachelor of Business Studies (BBS), Master of Business Studies (MBS), Master of Arts (MA) in Political Science, Master of Arts (MA) in Nepali, Master of Arts (MA) in English."
-   },
-
-          {
-    
-        "address":"Baglung ",
-        "bsc":"General ",
-        "msc":" -",
-       "name":"Dhaulagiri Multiple Campus",
-     "url": "https://tu-dmcbaglung.edu.np",
-     "lat": 28.27079212808994,
-     "lng": 83.6003244 ,
-     "image":"dhaulagiri.jpg",
-     "desc":"Dhawalagiri Multiple Campus (DMC) was established in 2019-Bhadra 2 (1962-08-18 A.D.). The prime goal of establishing this campus is to offer higher level studies according to the need and expectation of the people of Dhawalagiri area. ."
-   },
-
-          {
-    
-        "address":" Gorkha",
-        "bsc":"General",
-        "msc":"- ",
-       "name":"Gorkha Campus",
-     "url": "https://www.gorkhacampus.edu.np",
-     "lat": 28.002271663886532,
-     "lng":  84.6074091,
-     "image":"gorkha.jpg",
-     "desc":"Gorkha Campus is one of the constituent campus of Tribhuvan University contributing to the development of higher education in various subjects with academic excellence form the time of its inception some forty years ago. In addition to teacher education in Bachelor and Master degree, it has started Bachelor program in core Science. "
-   },
-
-          {
-    
-        "address":" Bhairahawa",
-        "bsc":"General , CSIT, BIT ",
-        "msc":" ",
-       "name":"Bhairahawa Multiple Campus",
-     "url": "http://www.bhairahawacampus.edu.np",
-     "lat":27.506130324096215 ,
-     "lng": 83.46397701534487,
-     "image":"bhairawaha.jpeg",
-     "desc":"Bhairahawa Campus is located in Bhairahawa. It is affiliated with Tribhuvan University. It was originally named as Bhairahawa Bahumukhi. It runs as a non-profit educational institution in the city.Being a multiple campus, it runs various programs under science, management and humanities stream. "
-   }
-
-      ]  
- }  
+}
