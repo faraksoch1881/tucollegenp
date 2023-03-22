@@ -1,0 +1,197 @@
+{
+"staffdata":[
+ {
+  "staff_name": "दान बहादुर ठकुरी",
+  "staff_title": "शिक्षालय प्रमुख",
+  "staff_address": "च.ना.न.प १०, जुम्ला",
+  "staff_phone": 9858080073,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "सुदिर थापा",
+  "staff_title": "रसायन शास्त्र प्रशिक्षक",
+  "staff_address": "भि.न.पा ०५, दोलखा",
+  "staff_phone": 9841991451,
+  "staff_role": "First Year Coordinator",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "सागर रावल",
+  "staff_title": "भौतिक शास्त्र प्रशिक्षक",
+  "staff_address": "च.ना.न.प ०३, जुम्ला",
+  "staff_phone": 9868336847,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "प्रेम बहादुर शाही",
+  "staff_title": "वन प्रशिक्षक",
+  "staff_address": "तातोपानि ०८, जम्ला",
+  "staff_phone": 9845906471,
+  "staff_role": "Forest ordinator",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "अनिता बुढा",
+  "staff_title": "वन प्रशिक्षक",
+  "staff_address": "च.ना.न.प ०३, जम्ला",
+  "staff_phone": 9843215637,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "डा. रिया पm'याल",
+  "staff_title": "पशु विज्ञान प्रशिक्षक",
+  "staff_address": "कावासोती ०५, नवलपरासी",
+  "staff_phone": 9821052468,
+  "staff_role": "Animal Coordinator",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "डम्बर जि.सी",
+  "staff_title": "निमार्ण प्रशिक्षक",
+  "staff_address": "कनकासुन्दरी ०४, जुम्ला",
+  "staff_phone": 9849399471,
+  "staff_role": "Civil Coordinator",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "सन्तोष कुमार कामती",
+  "staff_title": "निमार्ण प्रशिक्षक",
+  "staff_address": "अर्नामा ०४, सिराहा",
+  "staff_phone": 9827714304,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "मोतिराम घर्ती मगर",
+  "staff_title": "सहायक कम्पयुटर प्रशिक्षक",
+  "staff_address": "भे.न.पा ०५ जाजरकोट",
+  "staff_phone": 9865088458,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "स्वतन्त्र कुवँर",
+  "staff_title": "निर्माण सहायक प्रशिक्षक",
+  "staff_address": "च.ना.न.प १०, जुम्ला",
+  "staff_phone": 9848305587,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "कुष्ण शाही",
+  "staff_title": "प्रशासकिय सहायक प्रथम प्रशासन",
+  "staff_address": "च.ना.न.प १०, जुम्ला",
+  "staff_phone": 9822444936,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "सन्तोष वड",
+  "staff_title": "कृषि सहायक प्रशिक्षक पशुपालन",
+  "staff_address": "मंगलसन न.पा. १० अछाम",
+  "staff_phone": 9864542699,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "कुमार ओली",
+  "staff_title": "वन सहायक प्रशिक्षक",
+  "staff_address": "मुसिकोट रुकुम पश्चिम",
+  "staff_phone": 9861610669,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "रिता कठायत धरला",
+  "staff_title": "फार्मेसी सहायक प्रशिक्षक",
+  "staff_address": "चन्दननाथ ०८, जुम्ला",
+  "staff_phone": "-",
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "कमल मल्ल",
+  "staff_title": "लेखापाल",
+  "staff_address": "सिम्ता ०४, सुर्खेत",
+  "staff_phone": 9868167308,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "भिम बहादुर शाही",
+  "staff_title": "कार्यलय सहयोगी",
+  "staff_address": "भे.न.पा ०५, जाजरकोट",
+  "staff_phone": 9868104427,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "कमला आचार्य जैशि",
+  "staff_title": "कार्यलय सहयोगी",
+  "staff_address": "भे.न.पा ०५, जाजरकोट",
+  "staff_phone": 9860465817,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "अजय वि.क",
+  "staff_title": "सुरक्षागार्ड",
+  "staff_address": "भे.न.पा ०५, जाजरकोट\n",
+  "staff_phone": 9864829166,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "पुर्ण मगर",
+  "staff_title": "सुरक्षागार्ड",
+  "staff_address": "भे.न.पा ०६, जाजरकोट\n",
+  "staff_phone": 9742808711,
+  "staff_role": "-",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "गोविन्द चन्द",
+  "staff_title": "नेपाली प्रशिक्षक",
+  "staff_address": "भे.न.पा ०८, जाजरकोट",
+  "staff_phone": 9868231293,
+  "staff_role": "आंशिक प्रशिक्षक",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "प्रेम राज रावत",
+  "staff_title": "निमार्ण प्रशिक्षक",
+  "staff_address": "कुडारी ०३, जम्ला",
+  "staff_phone": 9860005654,
+  "staff_role": "आंशिक प्रशिक्षक",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "दारवीन खनाल",
+  "staff_title": "भौतिक शास्त्र पशिक्षक",
+  "staff_address": "अर्घाखाचीँ",
+  "staff_phone": 9851085370,
+  "staff_role": "आंशिक प्रशिक्षक",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "सतीस चन्द्र झा",
+  "staff_title": "बायोलीजी प्रशिक्षक",
+  "staff_address": "अर्घाखाचीँ",
+  "staff_phone": 9808227823,
+  "staff_role": "आंशिक प्रशिक्षक",
+  "staff_remark": "-"
+ },
+ {
+  "staff_name": "भरत चौधरी",
+  "staff_title": "अंग्रजी प्रशिक्षक",
+  "staff_address": "कैलाली",
+  "staff_phone": 9868526350,
+  "staff_role": "आंशिक प्रशिक्षक",
+  "staff_remark": "-"
+ }
+]
+
+}
