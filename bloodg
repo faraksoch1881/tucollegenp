@@ -1,0 +1,3963 @@
+{
+  "bloodg": [{
+        "name": "Aakash  Budthapa",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Amul Raj Bharati",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Anis   Budthapa",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bhabana  Bohara",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bhagwati  Devkota",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bhawni Prasad Upadhayay",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bijaya Kumari Shah",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bir   Sharki Nepali",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Birendra  Rawat",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bishal   Gurung",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Chandra  Rawal",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Dhuba Jung Shahi",
+        "blood": "B",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Dinesh Bahadur Shahi",
+        "blood": "B",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Dipendra  Budha",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Durga Bahadur Adhikari",
+        "blood": "B",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Gyan Bahadur Rawat",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Hemanta  Rokaya",
+        "blood": "O-ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Hirandya Prasad Upadhyaya",
+        "blood": "O-ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Jitendra Khand Thakuri",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Kabidatta  Budha",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Kabita  Rawat",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Kamal  Acharya",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Khemraj  Budha",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Kiran  Khatri",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Laxman  Rokaya",
+        "blood": "AB+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Lokendra  Adhikari",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Man Bahadur Malla",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Nagendra   Bhandari",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Nisha  Khatri",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Nitu  Shah",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Pashupati   Budha",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Pema Lhenjam Tamang",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Prabesh  Khatri",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Prabin  Rawal",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Prabin  Upadhyaya",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Pratima  Mahat",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Puja  Shrestha",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Rajesh  Hamal Simhada",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Raman  Budha",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Roshan  Shahi",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Roshna  Kami",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sarita  Khadka",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Shiva Narayan Budha Magar",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sirjana  Kathayat",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sudarsan Singh Kathayat",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sudima  Budha",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Suman   Shahi",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Upendra  Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Arun   Rawal",
+        "blood": "AB+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Bashu Dev Devkota",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Bhagawati  Neupane",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Bikash  Bhandari",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Binita   Rawat",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Bishal  B K",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Bishal  Rawat",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Gokarna Maharjan Kami",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Janendra   Kathayat",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Jashanta  Kulal",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Kamal  Sunar",
+        "blood": "AB+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Kamana  Rawat",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Karesh  B K",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Karishma  Jaishi",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Krishna Prasad Khatri",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Lalit  Kumal",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Naulasingh  Bam",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Nisha Laxmi Budha",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Rabindra  Chaulagai",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Roshon  Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sabina  Budthapa",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sagar  Singh",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sajana  Bhandari",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Samjana  Kumai",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Santi  Lama",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Santosh  Adhikari",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sarin  Shahi",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Shyam Raj Khatri",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sonam Dolma Tamang",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Subash  Rawal",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sumitra  Bham",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sunita   Bam",
+        "blood": "B-ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Surendra  Jaisi",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Susma   Gharti",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Tapendra  Gautam",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Tika  Laxmi Devkota",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Yagga  Bham",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Amita   Hayu",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Amresh  Das",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Asha  Tiruwa",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Bhogendra Kumar Ram",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Bhuwan  Bishwokarma",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Binod  Hayu",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Chandra Bahadur Bk",
+        "blood": "A-ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Hiralal  B. K.",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Jagat   Nepali",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Janga  Bahadur Prasad Dhobi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Kabi Raj Sunar",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Kabita  B.K.",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Kiran  Hayu",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Laxman  Bishwokarma",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Mukesh  Pariyar",
+        "blood": "AB+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Mun Bahadur Nepali",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Nabin  B.K.",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Pabitra  Hayu",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Padam  Raj Raji",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Purni Maya Sunar",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Radheshyam  Baitha",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Rajan   Hayu",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Rajesh  Ghatane",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Rajesh  Tamrakar",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Ranjana  Basel",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Ranju Kumari Rasaili",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Roshan  Luhar",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Sandip  Babu  Tharu",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Sandip Kumar Ram",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Sher Bahadur Bk",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Sundip  Sunar",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Sunil  Kumar  Tharu",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Suraj  Chaudhary",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Sushil   Surkhali",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Susil  Chepang",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Special Forestry\r"
+      },
+      {
+        "name": "Ashishha   Rawat",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Asmita  Bogati",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Bharat  Khatri",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Bhawana  Dhital",
+        "blood": "AB+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Bibek  Budha",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Birsana   Budha",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Bishal  Rokaya",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Dharma  Raj Adhikari",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Dipak   Kami",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Dolma   Kc",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Govinda  Chaulagain",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Hemant  Sharma",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Hemanta Kumar Singh",
+        "blood": "AB+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Himal  Shahi",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Hiralal  Sarki",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Kabita  Shahi",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Kalpana Rana Chhetri",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Kamal Bahadur Malla",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Khadak  Bahadur Khadka",
+        "blood": "AB+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Kiran Nath Yogi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Lokendra  Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Mahendra   Rawat",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Man Bdr Rokaya",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Mohan  Sunar",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Nabin  Rawal",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Nimisha   Bista",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Pabitra  Swar",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Parbati  Khatri",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Partima  Upadhyaya",
+        "blood": "AB+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Pramila  Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Purna  Budthapa",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Rabindra Kumar Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Rejina  Basnet",
+        "blood": "B+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Samikshya  Budha",
+        "blood": "A-ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Shree Krishna Budha",
+        "blood": "A+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Sudip  Gautam",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Suman   Rawat",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Takka  Aidi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Umesh   Pahadi",
+        "blood": "AB+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Woeser Lhamo Tamang",
+        "blood": "O+ve",
+        "yog": "2077",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Anisha  B.K.",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Arjun  Bk",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Asmita  Biswakarma",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Bharat   Bk",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Bhawana  Tikhatri",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Bimala  Sunar",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Deepa  Sunchauri",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Imran  Miya",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "James  Dewol",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Janak  Bk",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Janak Bahadur Bk",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Jayant Kumar Mandal",
+        "blood": "B-ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Karishma  Suanr",
+        "blood": "AB-ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Kopila   Chaudhary",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Kristina  Sunar",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Mahesh  Bk",
+        "blood": "AB+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Manit  Mahara",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Md Dilshad Miyan",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Md Aftab Alam Ansari",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Md Sabdan Husain Rain",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Mina Kumari Uranw",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Nabin   Bk",
+        "blood": "O-ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Niruta   Chaudhary",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Nisha  Meche",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Prakash Ram Kami",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Puja  Nepali",
+        "blood": "B+Ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Puran   Janala",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Rajesh Kumar Mahara",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Rakesh  Mahara",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Ram  Bahadur Bk",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Rani   Sharki",
+        "blood": "B-ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Resma  Basel",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Rusika  Bk",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Seema  Banu",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Shirjana  Pariyar",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Shreejana Kumari Bk",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Shreeshwor  Pariyar",
+        "blood": "AB+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Sijana   Gautam Chanara",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Sunil  Damai",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Swastika  Rasaili",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "HA\r"
+      },
+      {
+        "name": "Anita  Kami",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Asmita  Bhandari",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Bhim Raj Bohora",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Bikash  Budthapa",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Bimala  Pal",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Chhiring Yanjum Sunar",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Dil Bdr Kami",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Dinesh  Dangi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Dinesh  Pandey",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Dirgha Raj Bista",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Elisha  Bhandari",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Gita  Sarki",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Jamuna  Rokaya",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Jaya  Laxmi Karki",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Kamala  Upadhyay",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Karna Bdr Nepali",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Kishor  Bista",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Krishna  Kumari Rawat",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Laxmi  Pun",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Lila  Rawat",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Manoj  Dangar",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Mohan   Rokaya",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Mohom Singh Nepali",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Nabina  Pandey",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Neha  Kunwar",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Nigita  Rokaya",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Nirmala  Damai",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Nirmala  Mahatara",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Niruta  Shahi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Prakash  Bk",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Prakash  Sunar",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Rasmita Kumari Shahi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Sabita  Rokaya",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Saheba  Siddiqui",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Samjhana   Mahatara",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Sapana   Neupane",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Sarada  Khatri",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Srijana  Mahatara",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Subash  Chaulagain",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Yogesh  Bhandari",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Akal  Bahadur Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Anjali   Malla",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Asha Devi Devkota",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Barsha   Baral",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Basanti   Khatri",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Bhagarathi  Bhandari",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Bikash Prasad Chauhan",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Binita  Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Dhirjan   Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Dilmay  Bam",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Dipak  Rawat",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Ganesh  Adhikari",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Hari  Bdr  Thapa",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Janaki  Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Kalpana  Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Kalpana   Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Khadak Bahadur Saud",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Lalmati  Rokaya",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Manisha  Bhakri",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Min Bahadur Sijali",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Mohan   Basnet",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Naresh  Acharya",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Nisha  Giri",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Pampha   Baniya",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Rajaya Laxmi Hamal",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Ramesh   Mahatara",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Rekha   Budthapa",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Sadhana  Bhandari",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Sangita  Rawat",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Saphal Devi Bham",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Saraswoti  Budha",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Sarita   Khatri",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Shiv  Shahi",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Shivshankar  Sah",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Subi  Budthapa",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Suna  Rokaya",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Tenjin Chhetol Tamang",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Tilak   Rokaya",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Yuddha Bir Bhandari",
+        "blood": "-",
+        "yog": "2077",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Abinash  Karki",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Akash  Bohora",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Amir  K.C",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Arati   Rawal",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Asmita   Acharya",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bandana   Khatri",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Basanta  Jung  Shahi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Basanti  Budha",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bikash  Budha",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bimala  Jaisi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Binod   Rawat",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bisna   Rokaya",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Brinda  Pandey",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Choengyi Sangmo Tamang",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Dhan  Bdr Budhathoki",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Dhiraj  Malla",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Dila Bahadur Rawat",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Ganesh  Jaishi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Ghanshyam   Khadka",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Himal  Budha",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Karishma  Bharati",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Karishma  Rokaya",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Lhenjam Tsorgyal Tamang",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Lokendra  Shahi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Megnath  Yogi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Narendra  Rawat",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Naresh  Budha",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Naresh  Upadhayaya",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Pema Dechen Lama",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Pema Tenzin Tamang",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Prakash  Bohora",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Rabilal  Budha",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Rbindra  Budha",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sabitri  Bharati",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Santosh  Adhikari",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Santosh   Shahi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sarala  Mahat",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Saraswati  Rawat",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sarjan   Rokaya",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sima  Bohora",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sirisha  Budthapa",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Srijana  Kumai",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sujan  Baduwal",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Susmita  Singh",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Tenzin Dorjee Tamang",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Tika  Budha",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Trishna  Chaulagain",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Abiraj  Rawat",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Anish  Budha",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Anjana  Mahatara",
+        "blood": "AB+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Antima  Devkota",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Bhim Bahadur Thapa",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Birendra   Thapa",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Bishnu  Shahi",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Dhirendra  Malla",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Dipaka  Karki",
+        "blood": "AB+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Dipraj  Rawat",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Durga  Panday",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Ganesh  Bikram Shahi",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Ganga  Aidee",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Gyan Bahadur Rokaya",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Gyanu  Kumari  Shahi",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Jivan  Chalaune",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Kabita  Mahatara",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Karna Prasad  Sanjyal",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Lokesh  Thapa",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Man Bahadur Kunwar",
+        "blood": "AB+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Maya Devi Budha",
+        "blood": "B-ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Mim Bahadur Thapa",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Nabina  Giri",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Pabitra  Shahi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Pasang  Putic Lama",
+        "blood": "AB+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Pema  Dorjee Tamang",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Pramila  Chaulagain",
+        "blood": "B-ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Puspa  Khatri",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Rannasara  Budha",
+        "blood": "A-ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Ratanpura   Shahi",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Srijana   Shahi",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Subash   Shahi",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sumi  Baduwal",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Susmita  Pal",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Thinley Jigmed Lama",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Tika  Mahat",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Tsering   Lama",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Upendra  Budha",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Urmila   Thapa",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Yashoda  Bhandari",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Anita  Shah",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Anjana  Rawat",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Asala Bk Sijapati",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Bhakti Pd Neupane",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Bipana   Mahatara",
+        "blood": "AB+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Bishal  Bohora",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Bishnu  Thapa",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Dhana Bdr Budha",
+        "blood": "AB+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Dinesh  Dhyar",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Gita  Thapa",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Harish   Shahi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "James  Budha",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Jeewan  Chaulagain",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Jeezen Dolma Lama",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Kopila  Budha",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Malina  Aidee",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Mangal   Bohora",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Manisha  Dc",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Manisha  G C",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Motisara  B.K.",
+        "blood": "AB+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Nanda  Singh",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Narendra  Chhatyal",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Niruta  Kandel",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Nisha   Nepali",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Pema Kalsyang Tamang",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Prakash  Shahi",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Pratibha   K C",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Puspa   Puri",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Rajendra  Rana",
+        "blood": "A-ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Rekha   Bista",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Robin  Rawal",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Saguna  Budthapa",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Sarbin  Bhandari",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Sharada   Budhathoki",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Srijana  Khatri",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Supriya  Yogi",
+        "blood": "O+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Surasa  Malla",
+        "blood": "AB+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Syanumaiya  Shahi",
+        "blood": "A+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Tirthraj   Adhikari",
+        "blood": "-",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Urmila   Shahi",
+        "blood": "B+ve",
+        "yog": "2078",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Abinash  Singh",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Asmita  Budha",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Asmita  Neupane",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Badri  Prasad Devkota",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bakhat  Khatri",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Basanta  Kunwar",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Basanti  Budha",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bhawana   Thapa",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bibisha  Budthapa",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bijaya   Budha Magar",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bikash  Singh Kathayat",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Bikesh  Shahi",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Dawa  Tsering Tamang",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Dhanraj  Budhathoki",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Dharma  Sing Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Dhirendra  Kami",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Dinesh  Bahadur  Chand",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Gopal   Khadka",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Gururaj  Bhandari",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Harish  Basnet",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Himal  Neupane",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Isha  Budthapa",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Lokesh  Rawal",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Mahesh  Rokaya",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Manish  Kami",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Mayalal   Khadka",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Milan  Shahi",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Minu  Bhakri",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Nabin  Bhandari",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Namina  Thapa",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Niruta  Budthapa",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Pratap   Kc",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Pravesh  Devkota",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Rabindra  Singh",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Ruben  Rawat",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Santi  Bishokarma",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Saroj  Khatri",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sharmila  Khadka",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Smriti  Shrestha",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sonam Tsering Tamang",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Soniya  K.C.",
+        "blood": "AB-ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sulochana  Shahi",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Sushil  Gurung",
+        "blood": "B-ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Tank Bahadur  Dangar",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Tekendra  Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Ujjwal   Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Umesh  Bhandari",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Yagya Prasad Dhital",
+        "blood": "A-ve",
+        "yog": "2079",
+        "program\r": "Civil\r"
+      },
+      {
+        "name": "Amrita  Sarki",
+        "blood": "A +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Anjana  Neupane",
+        "blood": "A +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Bala  Sharki",
+        "blood": "O -ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Basanti  Acharya",
+        "blood": "B +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Basanti   Dangi",
+        "blood": "A +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Basanti  Phadera",
+        "blood": "A -ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Bhabesh   Neupane",
+        "blood": "B +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Bhuwon  Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Bimala  Shahi",
+        "blood": "B +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Bipasha  Basnet",
+        "blood": "A +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Birendra  Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "China  B K",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Darshana  Rokaya",
+        "blood": "O +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Diparaj   Bam",
+        "blood": "O +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Jayalaxmi  Kami",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Kamal   Kami",
+        "blood": "O -ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Karishma  Rokaya",
+        "blood": "O +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Kiran  Khatri",
+        "blood": "B +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Kushal  Sanjyal",
+        "blood": "A ",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Kusumkali  Rokaya",
+        "blood": "O +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Lal   Thapa",
+        "blood": "B +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Mahesh  Sharki",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Manoj Gautam Jaishi",
+        "blood": "B +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Niru  Gharti",
+        "blood": "A +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Nisha  Adhikari",
+        "blood": "O +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Parash  Sunar",
+        "blood": "O +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Rudra  Budhathoki",
+        "blood": "O +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Samragyee  Bhattarai",
+        "blood": "B +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Sandesh  Upadhayaya",
+        "blood": "O +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Sangita  Dharala",
+        "blood": "A +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Sanju Kumari Shahi",
+        "blood": "B +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Sarmila  Rawal",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Subas  Budha",
+        "blood": "B +ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Suman   Pun",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Sundar   Budha",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Suresh  Singh",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Susmita  Rawat",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Susmita  Rawat",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Tekendra  Rawal",
+        "blood": "A+ve ",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Upesh   Budthapa",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Agriculture\r"
+      },
+      {
+        "name": "Barshad  G C",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Bharat  Shahi",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Bhim Raj Rokaya",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Bimala   Bista",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Binita  Rokaya",
+        "blood": "A+Ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Dhan  Raj Thapa",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Gita  Budha",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Hari  Bdr Shahi",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Jagat  Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Jandevi  Budha",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Kabita  Khadka",
+        "blood": "A+Ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Kalam Sijapati Baduwal",
+        "blood": "B+",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Kalpana  Budha",
+        "blood": "B+",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Karishma   Singh",
+        "blood": "B+",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Karishma   Rokaya",
+        "blood": "B+",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Lalisara  Thakulla",
+        "blood": "B+",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Laxmi  Shahi",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Laxmi  Upadhayay",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Laxmi Pd Devkota",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Madan  Jaisi",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Manisha   Gautam",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Nabaraj   Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Nirman  Shahi",
+        "blood": "B+",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Nisha  Chaulagain",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Parash  Upadhayay",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Parbati  Chand",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Pema  Chhukit Lama",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Pratika  Giri",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Ranjana  Yogi",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Rekha  Khatri",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Roshni  Phadera",
+        "blood": "A+Ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Sandesh  Rawat",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Sarala  Shahi",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Sher  Bdr Rokaya",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Shivaraj  Bogati",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Sujata  Shahi",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Sundari  Shahi",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Sushil  Shahi",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Tasi  Lhamu  Lama",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Yamuna  Rana",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Pharmacy\r"
+      },
+      {
+        "name": "Om  Prakash  Budha",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Aelina  Khatri",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Apsara  Shahi",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Asmita  Shahi",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Babita  Dhakal",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Basanti  Rokaya",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Bipan  Budha",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Chaturbhuj  Rana",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Dallu  Bk",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Dan  Bdr  Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Dharma Raj  Kunwar",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Dil Maya Budha",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Harilal  Bohora",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Hasta  Bdr  Hamal",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Hisse Sangmu  Lama",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Ishwori  Jaisi",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Iswor  Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Kabita  Budha",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Nabindra   Chhatyal",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Narendra  Bk",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Prakriti  Nepali",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Pramila  Karki",
+        "blood": "A-ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Pratima   Damai",
+        "blood": "A-ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Ramesh  Nepali",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Rashmi   Khadka",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Rita  Khatri",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sallita  Luhar",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Saru Ku Rawat",
+        "blood": "A-ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Shobha  Mahatara",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sirjana  Adhikari",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sirjana   Karki",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Subash   Bista",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Sunima  Mahatara",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Surendra  Khadka",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Tashi Lamu  Tamang",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Tilak   Dharala",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Upendra  Budha",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Upendra  Rokaya",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "Forestry\r"
+      },
+      {
+        "name": "Aasha BK",
+        "blood": "O +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Bandana Sunar",
+        "blood": "AB  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Birendra Nepali",
+        "blood": "O  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Dilmaya B.K",
+        "blood": "O -ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Dipesh Luhar",
+        "blood": "O  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Dipshan Sunar",
+        "blood": "B  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Januka Hayu",
+        "blood": "O  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Jiban Chandar",
+        "blood": "B  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Kalika Kami",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Kamal Kami",
+        "blood": "A  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Lalita B.K",
+        "blood": "O  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Laxmi Nepali",
+        "blood": "B  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Laxmi pariyar",
+        "blood": "A  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Nanda B.K",
+        "blood": "O +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Nirasha Nepali",
+        "blood": "O  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Nirmala Nepali",
+        "blood": "O  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Paras Nepali",
+        "blood": "AB  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Purnakala Badi",
+        "blood": "AB  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Radhika B.K",
+        "blood": "A  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Rakshya Luhar",
+        "blood": "AB  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Ramila Bantho",
+        "blood": "A  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Roshan B.K",
+        "blood": "B  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Sanam Luhar",
+        "blood": "B  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Sangita B.K",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Sanish Chepang",
+        "blood": "B  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Sarita Pariyar",
+        "blood": "A  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Samiksha B .K",
+        "blood": "A  +ve",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Sunita B.K",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Special Agriculture\r"
+      },
+      {
+        "name": "Aitaram  Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Antema  Sunar",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Bandana   Sunar",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Bhabindra  Shahi",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Bhagawati  Chaulagain",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Dhan  Bahadur Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Gita  Rawat",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Juneli  Kumai",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Kabita  Bohora",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Kalika  Kami",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Kamal  Kami",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Karna  Budha",
+        "blood": "B-ve",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Khado Sangmu Lama",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Khakendra Bahadur Budha Magar",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Lalita  Upadhayay",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Lalkosa  Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Madan   Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Nandasari  Sunar",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Nirasha  Nepali",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Niru  Mahatara",
+        "blood": "B+ve",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Raju  Budha",
+        "blood": "O+ve",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Rita  Bhattarai",
+        "blood": "AB+ve",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Sangita   Bhandari",
+        "blood": "A+ve",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Sita   Bhandari",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Surendra  Sarki",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "JTA\r"
+      },
+      {
+        "name": "Anita  Bk",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Banche  Sarki",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Bhim  Bahadur Sarki",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Binita  Gurung",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Chhita  Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Gopal  Thapa",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Hasta Bahadur Mahatara",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Jir Bahadur Bishwakarma",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Kamal   Kami",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Kamal  Thapa",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Keshab  Mahatara",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Kushal Thapa Magar",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Laxmi  Kami",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Lokendra  Budthapa",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Lokendra  Dhital",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Mamita   Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Man Bahadur Baduwal",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Maya Devi  Kami",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Mayaram  Bohora",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Minika  Singh",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Mithun  Bk",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Nisha  Mahatara",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Parbati  Mahat",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Rupa  Bohora",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Sabitri   Mahatara",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Sagar   Sharki",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Samjhana  Rokaya",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Santosh   Sarki",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Sarmila  Kathayat",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Shanti  Tiwari",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Sunita  Shahi",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Sushila  Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Sushila  Budha",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Yamuna   Bhandari",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      },
+      {
+        "name": "Yubaraj  Hamal",
+        "blood": "-",
+        "yog": "2079",
+        "program\r": "Sub Overseer\r"
+      }
+   ]
+}
